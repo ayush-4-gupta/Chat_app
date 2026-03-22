@@ -1,1 +1,1 @@
-a chtapp using gemini api key
+A chtapp using gemini api key.
