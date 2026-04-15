@@ -1,3 +1,3 @@
 A chtapp using gemini api key.
-<br>
+<HR>
 using assistant-ui
